@@ -41,3 +41,16 @@ padding-right: 10%;
   background: #212EA0;
   color: white;
 }
+
+
+/* Media Query */
+@media (max-width:1200){
+  .container{
+    padding-left:5% ;
+    padding-right: 5%;
+  }
+  .btn{
+    padding: 14px 22px;
+  }
+  
+}

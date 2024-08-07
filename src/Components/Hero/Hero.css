@@ -17,12 +17,31 @@
     max-width: 800vh;
 
 }
-.hero-title{
+.hero-title h1{
     font-size: 60px;
     font-weight: 600;
 }
-.hero-subtitle{
+.hero-text p{
     max-width: 700px;
     margin: 10px auto 20px;
     line-height: 1.4;
+}
+
+/* medai query */
+
+@media(max-width:850px){
+    .hero-text h1{
+        font-size: 40px;
+    }
+}
+@media(max-width:650px){
+    .hero-text h1{
+        font-size: 30px;
+        max-width: 400px;
+        margin: auto;
+    }
+    .hero-text p{
+        font-size: 14px;
+        margin: 15px auto 30px;
+    }
 }

@@ -52,3 +52,9 @@
     display: block;
     margin: 20px 0;
 }
+
+
+/*  media quer */
+@media(max-width:700px){
+    
+}
