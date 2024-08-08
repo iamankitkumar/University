@@ -95,9 +95,10 @@ const Testimonials = () => {
                             <span>AIMSR, IND</span>
                         </div>
                     </div>
+
                     <p>
                     Master’s degree can provide a competitive edge in the job market, opening up more
-                     job opportunities and higher-level positions. Many employers require or prefer 
+                     job opportunities and higher-level of positions. Many employers require or prefer 
                      candidates with a Master’s degree, especially in fields like higher
                      education administration, public affairs, and social services
                     </p>
